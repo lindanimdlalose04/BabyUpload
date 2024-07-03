@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabyUploadFinal", "filesReRun1\BabyUploadFinal.csproj", "{7FF8E996-B66F-47BB-97EB-6D3A8155EE6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BabyUpload.Test_1", "BabyUpload.Test_1\BabyUpload.Test_1.csproj", "{438ACC16-0FD2-41F6-B6A5-A60BDD1699B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FF8E996-B66F-47BB-97EB-6D3A8155EE6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FF8E996-B66F-47BB-97EB-6D3A8155EE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FF8E996-B66F-47BB-97EB-6D3A8155EE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FF8E996-B66F-47BB-97EB-6D3A8155EE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{438ACC16-0FD2-41F6-B6A5-A60BDD1699B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{438ACC16-0FD2-41F6-B6A5-A60BDD1699B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{438ACC16-0FD2-41F6-B6A5-A60BDD1699B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{438ACC16-0FD2-41F6-B6A5-A60BDD1699B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {112BA67F-52AC-4846-B5AE-2BA9D777B470}
+	EndGlobalSection
+EndGlobal
